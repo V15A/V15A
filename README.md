@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Visa</h1>
 
-- 📚 I study **Bussiness information systems at Tampere University of Applied Sciences**
+- 📚 I study **Bussiness information systems(aka Computer science) at Tampere University of Applied Sciences**
 - 🔭 I’m currently working on **bus tracker web-app** which you can try out at https://v15a.github.io/bus-tracker/
 - 👀 I’m interested in **Cybersecurity, full-stack and mobile development**
 - 🌱 I’m currently learning **Cloud(azure) and cybersecurity**
