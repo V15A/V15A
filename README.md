@@ -2,7 +2,7 @@
 
 - 📚 I study **Bussiness information systems(aka Computer science) at Tampere University of Applied Sciences**
 - 🔭 I’m currently working on **improving my Bus-tracker app**
-- 👀 I’m interested in **Cybersecurity, full-stack and mobile development**
+- 👀 I’m interested in **Cybersecurity and software development**
 - ⭐ I'm most experienced in **React/Nodejs full-stack web development**.
 - 🌱 I’m currently learning **Cybersecurity and machine learning(Python)**
 
