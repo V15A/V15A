@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Visa</h1>
 
 - 📚 I study **Bussiness information systems(aka Computer science) at Tampere University of Applied Sciences**
-- 🔭 I’m currently working on **improving my Bus-tracker app**
+- 🔭 I’m currently working on **ios weather app**
 - 👀 I’m interested in **Cybersecurity and software development**
 - ⭐ I'm most experienced in **React/Nodejs full-stack web development**.
 - 🌱 I’m currently learning **Cybersecurity and machine learning(Python)**
