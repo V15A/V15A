@@ -3,7 +3,7 @@
 - 📚 I study **Bussiness information systems(aka Computer science) at Tampere University of Applied Sciences**
 - 🔭 I’m currently working on **Improving my practical cybersecurity skills**
 - 👀 I’m interested in **Cybersecurity and software development/testing**
-- ⭐ I'm most experienced in **React/Nodejs full-stack web development**.
+- ⭐ I'm most experienced in **full-stack web and mobile development**.
 - 🌱 I’m currently learning **Cybersecurity and machine learning(Python)**
 
 ## Languages and Tools:
